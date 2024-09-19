@@ -1,0 +1,1 @@
+This is the repository containing some of the graded tasks for *CS 570-A : Introduction to Programming, Data Structures, and Algorithms*, offered by *Stevens Institute of Technology* for the Fall 2024 Semester
